@@ -1,4 +1,4 @@
-# [Important: Work Under Progress] Brand-Recognition in Keras
+# [Important: Work In Progress] Brand-Recognition in Keras
 
 The goal of the project is to build a model that can recognise the brand in video advertisements. This brand could be one of the training data or any unknown brand. 
 
